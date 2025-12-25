@@ -1,0 +1,7 @@
+{
+  "name": "修复贺卡bug已成功",
+  "description": "A luxury 3D interactive Christmas experience controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
